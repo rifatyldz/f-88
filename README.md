@@ -33,8 +33,7 @@ Bu uygulama, günlük planlarını organize etmek isteyen, farklı şehirlerde g
 <li>Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 420 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.</li>
 <li>Daily Scrum: Daily Scrum toplantılarının zamansal ve kolaylık olması açısından Discord ve Whatsapp  üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları ile belirlenen görevlerde karşılaşılan zorluklar tartışılarak çözüldü fikir alışverişleri yapıldı.</li>
  <li>**Sprint board update:** Sprint board screenshotları:</li> 
- ![Sprint Board] ./daily_planner/Screenshot 2023-06-19 033330.png
-
+ ![Sprint Board] /sprint.png
 </ul>
 
 

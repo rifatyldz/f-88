@@ -32,9 +32,13 @@ Bu uygulama, günlük planlarını organize etmek isteyen, farklı şehirlerde g
 <li> Sprint içinde tamamlanması tahmin edilen puan: 120 Puan </li> 
 <li>Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 420 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.</li>
 <li>Daily Scrum: Daily Scrum toplantılarının zamansal ve kolaylık olması açısından Discord ve Whatsapp  üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları ile belirlenen görevlerde karşılaşılan zorluklar tartışılarak çözüldü fikir alışverişleri yapıldı.</li>
- <li>**Sprint board update:** Sprint board screenshotları:</li> 
- ![Sprint Board] /sprint.png
+ <li>Sprint board update: Sprint board screenshotları:</li> 
+ <img src="/sprint.png">
+    <li>Ürün Durumu: Ekran görüntüleri:</li>
+     <img src="/figma-design.jpg">
+    <li>Sprint Review: Sprint 1 sonunda, projenin ilk aşamasında fikirlerin oturduğunu ve tasarıma başlandığını başardık. Tasarım sürecine odaklanarak ilerlemeler kaydettik, ancak henüz tamamlanmadı. Bir sonraki sprintte tasarımın tamamlanmasına ve kodlama sürecine geçmeyi planlıyoruz. Bir sonraki sprintte daha fazla ilerleme kaydetmeyi hedefliyoruz.</li>
 </ul>
+
 
 
 

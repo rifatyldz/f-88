@@ -33,10 +33,11 @@ Bu uygulama, günlük planlarını organize etmek isteyen, farklı şehirlerde g
 <li>Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 420 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.</li>
 <li>Daily Scrum:<br> Daily Scrum toplantılarının zamansal ve kolaylık olması açısından Discord ve Whatsapp  üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları ile belirlenen görevlerde karşılaşılan zorluklar tartışılarak çözüldü fikir alışverişleri yapıldı.</li>,
     <li>Daily Scrum Chats:<br>
-    -Arkdaşlar bugün saat 10.00 da toplanıp trelloda verilen görevler üzerine konuşacağız, Örnek uygulamalar ve UI-UX  eğitim videolarını izlmemiz lazım ve tasarrımı oluşturmalıyız
-    -Yapılan tasarım şu şekilde nasıl değişiklikler yapabiliriz
-    -Renk palet bej ve beyaz tonlarında denemeler yapalım kayıt ol ekranına Google ile giriş yapma seçeneği ekleyelim
-    -Uygulamımazdki sınırları netleştirelim, Listeler,Profil yapısını konuşalım...
+    -Arkdaşlar bugün saat 10.00 da toplanıp trelloda verilen görevler üzerine konuşacağız, Örnek uygulamalar ve UI-UX  eğitim videolarını izlmemiz lazım ve tasarrımı oluşturmalıyız<br>
+    -Yapılan tasarım şu şekilde nasıl değişiklikler yapabiliriz<br>
+    -Renk palet bej ve beyaz tonlarında denemeler yapalım kayıt ol ekranına Google ile giriş yapma seçeneği ekleyelim<br>
+    -Uygulamımazdki sınırları netleştirelim, Listeler,Profil yapısını konuşalım...<br>
+    vb konuşmalar
         
     </li>
  <li>Sprint board update: Sprint board screenshotları:</li> 

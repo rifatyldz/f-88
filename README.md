@@ -37,9 +37,7 @@ Bu uygulama, günlük planlarını organize etmek isteyen, farklı şehirlerde g
     -Yapılan tasarım şu şekilde nasıl değişiklikler yapabiliriz<br>
     -Renk palet bej ve beyaz tonlarında denemeler yapalım kayıt ol ekranına Google ile giriş yapma seçeneği ekleyelim<br>
     -Uygulamımazdki sınırları netleştirelim, Listeler,Profil yapısını konuşalım...<br>
-    vb konuşmalar
-        
-    </li>
+    vb konuşmalar</li>
  <li>Sprint board update: Sprint board screenshotları:</li> 
  <img src="/assets/img//sprint.png">
     <li>Ürün Durumu: Ekran görüntüleri:</li>

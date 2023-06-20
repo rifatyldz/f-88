@@ -38,9 +38,9 @@ Bu uygulama, günlük planlarını organize etmek isteyen, farklı şehirlerde g
     -Renk palet bej ve beyaz tonlarında denemeler yapalım kayıt ol ekranına Google ile giriş yapma seçeneği ekleyelim<br>
     -Uygulamımazdki sınırları netleştirelim, Listeler,Profil yapısını konuşalım...<br>
     vb konuşmalar</li>
-     <img src="/assets/img//scrum-meets">
+     <img src="/assets/img/Scrum-meets">
  <li>Sprint board update: Sprint board screenshotları:</li> 
- <img src="/assets/img//sprint.png">
+ <img src="/assets/img/sprint.png">
     <li>Ürün Durumu: Ekran görüntüleri:</li>
      <img src="/assets/img/figma-design.jpg">
     <li>Sprint Review: <br> Sprint 1 sonunda, projenin ilk aşamasında fikirlerin oturduğunu ve tasarıma başlandığını başardık. Tasarım sürecine odaklanarak ilerlemeler kaydettik, ancak henüz tamamlanmadı. Bir sonraki sprintte tasarımın tamamlanmasına ve kodlama sürecine geçmeyi planlıyoruz. Bir sonraki sprintte daha fazla ilerleme kaydetmeyi hedefliyoruz.</li>

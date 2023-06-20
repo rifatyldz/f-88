@@ -38,6 +38,7 @@ Bu uygulama, günlük planlarını organize etmek isteyen, farklı şehirlerde g
     -Renk palet bej ve beyaz tonlarında denemeler yapalım kayıt ol ekranına Google ile giriş yapma seçeneği ekleyelim<br>
     -Uygulamımazdki sınırları netleştirelim, Listeler,Profil yapısını konuşalım...<br>
     vb konuşmalar</li>
+     <img src="/assets/img//scrum-meets">
  <li>Sprint board update: Sprint board screenshotları:</li> 
  <img src="/assets/img//sprint.png">
     <li>Ürün Durumu: Ekran görüntüleri:</li>

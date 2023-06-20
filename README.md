@@ -31,21 +31,21 @@ Bu uygulama, günlük planlarını organize etmek isteyen, farklı şehirlerde g
 <ul>
 <li> Sprint içinde tamamlanması tahmin edilen puan: 120 Puan </li> 
 <li>Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 420 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.</li>
-<li>Daily Scrum: Daily Scrum toplantılarının zamansal ve kolaylık olması açısından Discord ve Whatsapp  üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları ile belirlenen görevlerde karşılaşılan zorluklar tartışılarak çözüldü fikir alışverişleri yapıldı.</li>
+<li>Daily Scrum:<br> Daily Scrum toplantılarının zamansal ve kolaylık olması açısından Discord ve Whatsapp  üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları ile belirlenen görevlerde karşılaşılan zorluklar tartışılarak çözüldü fikir alışverişleri yapıldı.</li>,
+    <li>Daily Scrum Screenshot:
+    </li>
  <li>Sprint board update: Sprint board screenshotları:</li> 
  <img src="/assets/img//sprint.png">
     <li>Ürün Durumu: Ekran görüntüleri:</li>
      <img src="/assets/img/figma-design.jpg">
-    <li>Sprint Review: Sprint 1 sonunda, projenin ilk aşamasında fikirlerin oturduğunu ve tasarıma başlandığını başardık. Tasarım sürecine odaklanarak ilerlemeler kaydettik, ancak henüz tamamlanmadı. Bir sonraki sprintte tasarımın tamamlanmasına ve kodlama sürecine geçmeyi planlıyoruz. Bir sonraki sprintte daha fazla ilerleme kaydetmeyi hedefliyoruz.</li>
+    <li>Sprint Review: <br> Sprint 1 sonunda, projenin ilk aşamasında fikirlerin oturduğunu ve tasarıma başlandığını başardık. Tasarım sürecine odaklanarak ilerlemeler kaydettik, ancak henüz tamamlanmadı. Bir sonraki sprintte tasarımın tamamlanmasına ve kodlama sürecine geçmeyi planlıyoruz. Bir sonraki sprintte daha fazla ilerleme kaydetmeyi hedefliyoruz.</li>
 
-<li>Sprint Retrorespective:
-Takım İletişimi ve İşbirliği: Sprint boyunca takım olarak iyi bir işbirliği ve etkili iletişim sağladık. Herkesin fikirlerini paylaşmasına ve sorunları hızlı bir şekilde çözmeye odaklandık.
+<li>Sprint Retrorespective: <br>
+Sprint boyunca takım olarak iyi bir işbirliği ve etkili iletişim sağladık. Bir takım arkadaşımıza ulaşamadık. Herkesin fikirlerini paylaşmasına, ne yapacağımızı belirleme ve sorunları hızlı bir şekilde çözmeye odaklandık.
 
-Tasarım Süreci: Tasarım aşamasına odaklandık, ancak beklenen ilerlemeyi tam olarak sağlayamadık. Bir sonraki sprintte tasarım sürecine daha fazla zaman ayırmak ve hedeflenen tasarım hedeflerini tamamlamak için daha iyi planlama yapmalıyız.
+Tasarım aşamasına odaklandık, ancak beklenen ilerlemeyi tam olarak sağlayamadık. Bir sonraki sprintte tasarım sürecine daha fazla zaman ayırmak ve hedeflenen tasarım hedeflerini tamamlamak için daha iyi planlama yapmalıyız.
 
-Geri Bildirim Toplama: Kullanıcı geri bildirimlerini toplamak için ilk adımları attık, ancak daha fazla kullanıcı testi yapmamız gerekiyor. Önümüzdeki sprintlerde kullanıcı geri bildirimlerini daha sistematik bir şekilde toplamak için bir plan yapmalıyız.
-
-Görev Tahminleri: Görev tahminlerimiz genellikle gerçekleşen zamandan daha uzun sürdü. Daha iyi bir tahmin yapmak için daha fazla deneyim biriktirmeli ve geçmiş sprintlerdeki gerçekleşen zamanlara dayanarak daha iyi bir değerlendirme yapmalıyız. </li>
+Görev Tahminleri: Görev tahminlerimiz genellikle gerçekleşen zamandan daha uzun sürdü. Ve kodlama kısmına giriş yapmakla kaldk. Daha iyi bir tahmin yapmak için daha fazla deneyim biriktirmeli ve geçmiş sprintlerdeki gerçekleşen zamanlara dayanarak daha iyi bir değerlendirme yapmalıyız. </li>
 </ul>
 
 

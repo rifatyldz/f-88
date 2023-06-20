@@ -47,7 +47,7 @@ Bu uygulama, günlük planlarını organize etmek isteyen, farklı şehirlerde g
 <li>Sprint Retrorespective: <br>
 Sprint boyunca takım olarak iyi bir işbirliği ve etkili iletişim sağladık. Bir takım arkadaşımıza ulaşamadık. Herkesin fikirlerini paylaşmasına, ne yapacağımızı belirleme ve sorunları hızlı bir şekilde çözmeye odaklandık.
 
-Tasarım aşamasına odaklandık, ancak beklenen ilerlemeyi tam olarak sağlayamadık. Bir sonraki sprintte tasarım sürecine daha fazla zaman ayırmak ve hedeflenen tasarım hedeflerini tamamlamak için daha iyi planlama yapmalıyız.
+Tasarım aşamasına odaklandık, ancak beklenen ilerlemeyi tam olarak sağlayamadık ve kodlama aşamasına geçemedik. Bir sonraki sprintte tasarım sürecine daha fazla zaman ayırmak ve hedeflenen tasarım ve kodlama kısmını tamamlamak için daha iyi planlama yapmalıyız.
 
 Görev Tahminleri: Görev tahminlerimiz genellikle gerçekleşen zamandan daha uzun sürdü. Ve kodlama kısmına giriş yapmakla kaldk. Daha iyi bir tahmin yapmak için daha fazla deneyim biriktirmeli ve geçmiş sprintlerdeki gerçekleşen zamanlara dayanarak daha iyi bir değerlendirme yapmalıyız. </li>
 </ul>

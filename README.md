@@ -37,6 +37,8 @@ Bu uygulama, günlük planlarını organize etmek isteyen, farklı şehirlerde g
     <li>Ürün Durumu: Ekran görüntüleri:</li>
      <img src="/figma-design.jpg">
     <li>Sprint Review: Sprint 1 sonunda, projenin ilk aşamasında fikirlerin oturduğunu ve tasarıma başlandığını başardık. Tasarım sürecine odaklanarak ilerlemeler kaydettik, ancak henüz tamamlanmadı. Bir sonraki sprintte tasarımın tamamlanmasına ve kodlama sürecine geçmeyi planlıyoruz. Bir sonraki sprintte daha fazla ilerleme kaydetmeyi hedefliyoruz.</li>
+
+<li>Sprint Retrorespective: </li>
 </ul>
 
 

@@ -72,7 +72,7 @@ Görev Tahminleri: Görev tahminlerimiz genellikle gerçekleşen zamandan daha u
 Üçüncü sprintin sonunda akademiye sunulacak olan bir demo veya prototip hazırlanmasına karar verildi. Bu demo, projenin ilerlemesini göstermek ve geri bildirim almak için önemli bir fırsat olarak değerlendirilecek. </li>
         
  <li> Sprint Review katılımcıları: </li>
-    <li>Sprint Retrospective: İyi ve geliştirilmesi gereken alanları tanımlandı. Takım olarak nasıl daha iyi bir performans sergileyebileceğimiz tartışıldı.</li>
+    <li>Sprint Retrospective: İyi ve geliştirilmesi gereken alanlar tanımlandı. Takım olarak nasıl daha iyi bir performans sergileyebileceğimiz tartışıldı.</li>
 </ul>
 
 

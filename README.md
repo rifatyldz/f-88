@@ -60,7 +60,7 @@ Görev Tahminleri: Görev tahminlerimiz genellikle gerçekleşen zamandan daha u
     <li>Sprint içinde tamamlanması tahmin edilen puan: 100 Puan</li>
     <li>Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır</li>
     <li> Sprint Board Update </li>
-    <img src="/assets/img/>
+    <img src="/assets/img/Sprint-2-board.png>
     <li>Ürün Durumu: Ekran görüntüleri:</li>
     <li>Sprint Review: Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan</li>
     <li>Sprint Retrospective:</li>

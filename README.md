@@ -58,12 +58,12 @@ Görev Tahminleri: Görev tahminlerimiz genellikle gerçekleşen zamandan daha u
 
 <ul>
        <li>Sprint içinde tamamlanması tahmin edilen puan: 100 Puan</li>
-    <li>Daily Scrum: Daily Scrum toplantılarının zaman ve kolaylık açısından Discord ve Whatsapp platformları üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları ile belirlenen görevlerde karşılaşılan zorluklar tartışılarak çözüldü, fikir alışverişleri yapıldı. Takım üyeleri arasında düzenli ve etkili iletişim kuruldu. Ayrıca, takım üyeleri arasında bilgi ve medya paylaşımı sağlandı.</li>
+    <li><b>Daily Scrum:</b> Daily Scrum toplantılarının zaman ve kolaylık açısından Discord ve Whatsapp platformları üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları ile belirlenen görevlerde karşılaşılan zorluklar tartışılarak çözüldü, fikir alışverişleri yapıldı. Takım üyeleri arasında düzenli ve etkili iletişim kuruldu. Ayrıca, takım üyeleri arasında bilgi ve medya paylaşımı sağlandı.</li>
     <li> Sprint Board Update </li>
     <img src="/assets/img/Sprint-2-board.png">
         </ul>
     <ul>
-        <li>Ürün Durumu: Ekran görüntüleri:</li>
+        <li><b>Ürün Durumu:</b> Ekran görüntüleri:</li>
     <li>Sprint Review: Product Owner, nelerin tamamlandığını, nelerin tamamlanmadığını ve nedenini ekip arkadaşlarına kısaca açıkladı. 
         Toplantılar yapıldı. Toplantılarda ekip üyelerinin yaptıkları geri bildirimler ve önerdikleri öncelikler ayrıntılı bir şekilde not alındı. Not alınan maddeler değerlendirildi. </li>
    

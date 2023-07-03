@@ -27,7 +27,7 @@ Uygulamamız, kullanıcıların seçtikleri şehirdeki günlük planlarını org
 Bu uygulama, günlük planlarını organize etmek isteyen, farklı şehirlerde gezmek veya seyahat etmek isteyen kullanıcılar için tasarlanmıştır. Seyahat tutkunları, turistler veya yerel halk gibi farklı kullanıcı grupları hedef kitle olarak düşünülebilir.
 
 
-# 1.Sprint
+# 1. SPRINT
 <ul>
 <li> Sprint içinde tamamlanması tahmin edilen puan: 120 Puan </li> 
 <li>Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 420 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.</li>
@@ -54,22 +54,25 @@ Görev Tahminleri: Görev tahminlerimiz genellikle gerçekleşen zamandan daha u
 </ul>
 
 
-# Sprint 2
+# 2. SPRINT
 
 <ul>
-    <li>Sprint içinde tamamlanması tahmin edilen puan: 100 Puan</li>
-    <li>Daily Scrum: Daily Scrum toplantılarının zamansal ve kolaylık olması açısından Discord ve Whatsapp  üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları ile belirlenen görevlerde karşılaşılan zorluklar tartışılarak çözüldü fikir alışverişleri yapıldı.</li>
-    <li> Sprint Board Update </li>
+       <li>Sprint içinde tamamlanması tahmin edilen puan: 100 Puan</li>
+    <li><b>Daily Scrum:</b> Daily Scrum toplantılarının zaman ve kolaylık açısından Discord ve Whatsapp platformları üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları ile belirlenen görevlerde karşılaşılan zorluklar tartışılarak çözüldü, fikir alışverişleri yapıldı. Takım üyeleri arasında düzenli ve etkili iletişim kuruldu. Ayrıca, takım üyeleri arasında bilgi ve medya paylaşımı sağlandı.</li>
+    <li> <b>Sprint Board Update </b> </li>
     <img src="/assets/img/Sprint-2-board.png">
         </ul>
     <ul>
-        <li>Ürün Durumu: Ekran görüntüleri:</li>
-    <li>Sprint Review: Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan</li>
-    <li>Sprint Retrospective:</li>
+        <li><b>Ürün Durumu:</b> Ekran görüntüleri:</li>
+    <li> <b>Sprint Review:</b> Product Owner, nelerin tamamlandığını, nelerin tamamlanmadığını ve nedenini ekip arkadaşlarına kısaca açıkladı. 
+        Toplantılar yapıldı. Toplantılarda ekip üyelerinin yaptıkları geri bildirimler ve önerdikleri öncelikler ayrıntılı bir şekilde not alındı. Not alınan maddeler değerlendirildi. </li>
+   
+        
+<li> <b>Alınan kararlar:</b> Önceki sprintten alınan geri bildirimleri değerlendirdikten sonra, kullanıcı arayüzünün tasarımı hakkında ilerleyen süreçlerde bazı iyileştirmeler yapılması kararı alındı.İkinci sprintte belirlenen öncelikli özelliklerin çoğu tamamlandığı için, üçüncü sprintte yeni bir özellik ve tasarım ekleme kararı alındı. Proje ekibi, kendi içerisinde belirlediği geri bildirimleri dikkate alarak ve pazar trendlerini göz önünde bulundurarak, eklenmesi planlanan yeni tasarımları belirlemek için bir beyin fırtınası oturumu düzenledi. Proje ekibi, üçüncü sprintin hedeflerini ve takvimini konuşmsk için gerçekçi bir değerlendirme yaptı. İlk sprintte karşılaşılan zorlukları ve gecikmeleri dikkate alarak, üçüncü sprintin sürecini daha verimli ve sıkı geçirme kararı alındı. 
+Üçüncü sprintin sonunda akademiye sunulacak olan bir demo veya prototip hazırlanmasına karar verildi. Bu demo, projenin ilerlemesini göstermek ve geri bildirim almak için önemli bir fırsat olarak değerlendirilecek. </li>
+        
+ <li><b> Sprint Review katılımcıları:</b> </li>
+ <li> <b>Sprint Retrospective: </b> İyi ve geliştirilmesi gereken alanlar tanımlandı. Takım olarak nasıl daha iyi bir performans sergileyebileceğimiz tartışıldı.</li>
 </ul>
-
-
-
-
 
 

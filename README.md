@@ -64,7 +64,13 @@ Görev Tahminleri: Görev tahminlerimiz genellikle gerçekleşen zamandan daha u
         </ul>
     <ul>
         <li><b>Ürün Durumu:</b> Ekran görüntüleri:</li>
-    <li> <b>Sprint Review:</b> Product Owner, nelerin tamamlandığını, nelerin tamamlanmadığını ve nedenini ekip arkadaşlarına kısaca açıkladı. 
+    <img src="/assets/img/product.png">
+    <img src="/assets/img/product2.png">
+    <img src="/assets/img/product3.png">
+    <img src="/assets/img/product4.png">
+    <img src="/assets/img/product5.png">
+         
+<li> <b>Sprint Review:</b> Product Owner, nelerin tamamlandığını, nelerin tamamlanmadığını ve nedenini ekip arkadaşlarına kısaca açıkladı. 
         Toplantılar yapıldı. Toplantılarda ekip üyelerinin yaptıkları geri bildirimler ve önerdikleri öncelikler ayrıntılı bir şekilde not alındı. Not alınan maddeler değerlendirildi. </li>
    
         

@@ -64,7 +64,7 @@ Görev Tahminleri: Görev tahminlerimiz genellikle gerçekleşen zamandan daha u
         </ul>
     <ul>
         <li><b>Ürün Durumu:</b> Ekran görüntüleri:</li>
-    <img src="/assets/img/anasayfa-1.jpg">
+    <img width="50px" height="50px" src="/assets/img/anasayfa-1.jpg">
     <img src="/assets/img/girisekrani.jpg">
     <img src="/assets/img/icerikekrani.jpg">
          

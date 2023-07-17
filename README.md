@@ -74,6 +74,12 @@ Görev Tahminleri: Görev tahminlerimiz genellikle gerçekleşen zamandan daha u
         
 <li> <b>Alınan kararlar:</b> Önceki sprintten alınan geri bildirimleri değerlendirdikten sonra, kullanıcı arayüzünün tasarımı hakkında ilerleyen süreçlerde bazı iyileştirmeler yapılması kararı alındı.İkinci sprintte belirlenen öncelikli özelliklerin çoğu tamamlandığı için, üçüncü sprintte yeni bir özellik ve tasarım ekleme kararı alındı. Proje ekibi, kendi içerisinde belirlediği geri bildirimleri dikkate alarak ve pazar trendlerini göz önünde bulundurarak, eklenmesi planlanan yeni tasarımları belirlemek için bir beyin fırtınası oturumu düzenledi. Proje ekibi, üçüncü sprintin hedeflerini ve takvimini konuşmsk için gerçekçi bir değerlendirme yaptı. İlk sprintte karşılaşılan zorlukları ve gecikmeleri dikkate alarak, üçüncü sprintin sürecini daha verimli ve sıkı geçirme kararı alındı. 
 Üçüncü sprintin sonunda akademiye sunulacak olan bir demo veya prototip hazırlanmasına karar verildi. Bu demo, projenin ilerlemesini göstermek ve geri bildirim almak için önemli bir fırsat olarak değerlendirilecek. </li>
+
+# 3.SPRINT
+<lib> Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
+
+ <li><b> Daily Scrum: </b> Daily Scrum toplantılarını Discord ve Whatsapp platformları üzerinden yapılması devam etmiştir. Daily Scrum toplantıları ile tasarıma karar verildi karşılaşılan zorluklar tartışılarak çözüldü, fikir alışverişleri yapıldı kodlama kısmına başlandı. Takım üyeleri arasında düzenli ve etkili iletişim kuruldu.
+
         
  <li><b> Sprint Review katılımcıları:</b> </li>
  <li> <b>Sprint Retrospective: </b> İyi ve geliştirilmesi gereken alanlar tanımlandı. Takım olarak nasıl daha iyi bir performans sergileyebileceğimiz tartışıldı.</li>

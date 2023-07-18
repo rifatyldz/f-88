@@ -16,6 +16,13 @@ class SignInPage extends StatelessWidget {
       ),
       backgroundColor: Colors.blue.shade100,
       body: Container(
+        decoration: BoxDecoration(
+          image: DecorationImage(
+            image: AssetImage('images/background.jpg'),
+            fit: BoxFit.cover,
+          ),
+        ),
+
         padding: EdgeInsets.all(20.0),
         child: Column(
           mainAxisSize: MainAxisSize.max,

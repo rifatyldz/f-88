@@ -16,8 +16,10 @@ class _emailGirisKayitState extends State<emailGirisKayit> {
         title: Text("Sign in / Sign up"),
       ),
       body: SingleChildScrollView(
+        padding: EdgeInsets.all(20),
         child: Form(
           child: Column(
+            
             children: [
               SizedBox(height: 16),
 
@@ -42,7 +44,7 @@ class _emailGirisKayitState extends State<emailGirisKayit> {
               ),
               SizedBox(height:12),
 
-              LoginButton(buttonText:"Sign in or Sign Up", buttonIcon: Icon(Icons.arrow_forward), onPressed: (){},),
+              LoginButton(buttonText:"Sign in or Sign Up", buttonIcon: Icon(Icons.arrow_forward), onPressed: (){},buttonColor: Colors.teal,),
             ],
           ),
         ),

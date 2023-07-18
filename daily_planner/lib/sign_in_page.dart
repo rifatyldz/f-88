@@ -49,6 +49,7 @@ class SignInPage extends StatelessWidget {
                 size: 30,
               ),
             ),
+            LoginButton(buttonText: "Guest", buttonColor: Colors.teal, onPressed:() {}, buttonIcon: Icon(Icons.person),)
           ],
         ),
       ),

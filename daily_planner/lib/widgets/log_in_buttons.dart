@@ -42,7 +42,7 @@ class LoginButton extends StatelessWidget {
             buttonText,
             style: TextStyle(color: textColor),
           ),
-          Opacity(opacity:0, child:buttonIcon),
+        Opacity(opacity:0, child:buttonIcon),
 
         ],
       ),

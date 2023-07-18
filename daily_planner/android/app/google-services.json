@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "149621444937",
+    "project_id": "daily-planner-f88",
+    "storage_bucket": "daily-planner-f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149621444937:android:cf34aa3bf487e02ebdca98",
+        "android_client_info": {
+          "package_name": "com.example.daily_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149621444937-jaqfi8msf26ea4hjknds15j63qsccnln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daily_planner",
+            "certificate_hash": "c1dd9d27ff97fbb41e38a77757bc4424877d390b"
+          }
+        },
+        {
+          "client_id": "149621444937-7por2slnf9e9v07o2flqsl2mo3b4da1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIUd2y3tu8rQmN-IDhcPcjCJPiJw8e4pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149621444937-7por2slnf9e9v07o2flqsl2mo3b4da1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

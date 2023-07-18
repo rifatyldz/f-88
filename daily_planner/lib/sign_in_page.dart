@@ -1,4 +1,6 @@
+import 'package:daily_planner/sign_in_sign_up.dart';
 import 'package:daily_planner/widgets/log_in_buttons.dart';
+// import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
 class SignInPage extends StatelessWidget {
@@ -42,17 +44,31 @@ class SignInPage extends StatelessWidget {
             ),
             LoginButton(
               buttonText: "Sign in with e-mail and password",
-              onPressed: () {},
+              onPressed: () => _emailGirisKayit(context),
               buttonColor: Colors.blue.shade600,
               buttonIcon: Icon(
                 Icons.email,
                 size: 30,
               ),
             ),
-            LoginButton(buttonText: "Guest", buttonColor: Colors.teal, onPressed:() {}, buttonIcon: Icon(Icons.person),)
+            LoginButton(
+              buttonText: "Guest",
+              buttonColor: Colors.teal,
+              onPressed: () {},
+              buttonIcon: Icon(Icons.person),
+            )
           ],
         ),
       ),
     );
   }
+}
+
+void _emailGirisKayit(BuildContext context) {
+  Navigator.of(context).push(
+    MaterialPageRoute(
+      fullscreenDialog: true,
+      builder: (context) => emailGirisKayit(),
+    ),
+  );
 }

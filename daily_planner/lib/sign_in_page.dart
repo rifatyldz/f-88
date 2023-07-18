@@ -12,6 +12,7 @@ class SignInPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("Daily Planner"),
+        leading: Icon(Icons.menu),
         elevation: 0,
       ),
       backgroundColor: Colors.blue.shade100,
@@ -22,7 +23,6 @@ class SignInPage extends StatelessWidget {
             fit: BoxFit.cover,
           ),
         ),
-
         padding: EdgeInsets.all(20.0),
         child: Column(
           mainAxisSize: MainAxisSize.max,
@@ -32,7 +32,10 @@ class SignInPage extends StatelessWidget {
             Text(
               "Sign in",
               textAlign: TextAlign.center,
-              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 40),
+              style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 40,
+                  color: Colors.teal),
             ),
             SizedBox(
               height: 12,
@@ -46,8 +49,9 @@ class SignInPage extends StatelessWidget {
                 size: 30,
               ),
             ),
-              SizedBox(height: 8,),
-
+            SizedBox(
+              height: 8,
+            ),
             LoginButton(
               buttonText: "Sign in with Google",
               onPressed: () {},
@@ -55,17 +59,18 @@ class SignInPage extends StatelessWidget {
               buttonColor: Colors.white,
               buttonIcon: Image.asset("images/google_logo.png"),
             ),
-              SizedBox(height: 8,),
-
+            SizedBox(
+              height: 8,
+            ),
             LoginButton(
               buttonText: "Sign in with Facebook",
               onPressed: () {},
               buttonColor: Color(0xFF334D92),
               buttonIcon: Image.asset("images/facebook_logo.png"),
             ),
-              SizedBox(height: 8,),
-
-            
+            SizedBox(
+              height: 8,
+            ),
             LoginButton(
               buttonText: "Guest",
               buttonColor: Colors.teal,

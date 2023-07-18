@@ -31,19 +31,6 @@ class SignInPage extends StatelessWidget {
               height: 12,
             ),
             LoginButton(
-              buttonText: "Sign in with Google",
-              onPressed: () {},
-              textColor: Colors.black87,
-              buttonColor: Colors.white,
-              buttonIcon: Image.asset("images/google_logo.png"),
-            ),
-            LoginButton(
-              buttonText: "Sign in with Facebook",
-              onPressed: () {},
-              buttonColor: Color(0xFF334D92),
-              buttonIcon: Image.asset("images/facebook_logo.png"),
-            ),
-            LoginButton(
               buttonText: "Sign in with e-mail and password",
               onPressed: () => _emailGirisKayit(context),
               buttonColor: Colors.blue.shade600,
@@ -52,6 +39,26 @@ class SignInPage extends StatelessWidget {
                 size: 30,
               ),
             ),
+              SizedBox(height: 8,),
+
+            LoginButton(
+              buttonText: "Sign in with Google",
+              onPressed: () {},
+              textColor: Colors.black87,
+              buttonColor: Colors.white,
+              buttonIcon: Image.asset("images/google_logo.png"),
+            ),
+              SizedBox(height: 8,),
+
+            LoginButton(
+              buttonText: "Sign in with Facebook",
+              onPressed: () {},
+              buttonColor: Color(0xFF334D92),
+              buttonIcon: Image.asset("images/facebook_logo.png"),
+            ),
+              SizedBox(height: 8,),
+
+            
             LoginButton(
               buttonText: "Guest",
               buttonColor: Colors.teal,
